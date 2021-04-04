@@ -1,0 +1,17 @@
+C:\Users\Marcin\source\repos\Program Serwisowy\Program Serwisowy\bin\Release\Program Serwisowy.exe.config
+C:\Users\Marcin\source\repos\Program Serwisowy\Program Serwisowy\bin\Release\Program Serwisowy.exe
+C:\Users\Marcin\source\repos\Program Serwisowy\Program Serwisowy\bin\Release\Program Serwisowy.pdb
+C:\Users\Marcin\source\repos\Program Serwisowy\Program Serwisowy\obj\Release\Program_Serwisowy.basewin.resources
+C:\Users\Marcin\source\repos\Program Serwisowy\Program Serwisowy\obj\Release\Program_Serwisowy.classicshell.resources
+C:\Users\Marcin\source\repos\Program Serwisowy\Program Serwisowy\obj\Release\Program_Serwisowy.drukarka.resources
+C:\Users\Marcin\source\repos\Program Serwisowy\Program Serwisowy\obj\Release\Program_Serwisowy.Form1.resources
+C:\Users\Marcin\source\repos\Program Serwisowy\Program Serwisowy\obj\Release\Program_Serwisowy.informacje.resources
+C:\Users\Marcin\source\repos\Program Serwisowy\Program Serwisowy\obj\Release\Program_Serwisowy.ninite.resources
+C:\Users\Marcin\source\repos\Program Serwisowy\Program Serwisowy\obj\Release\Program_Serwisowy.Properties.Resources.resources
+C:\Users\Marcin\source\repos\Program Serwisowy\Program Serwisowy\obj\Release\Program_Serwisowy.przegladarka.resources
+C:\Users\Marcin\source\repos\Program Serwisowy\Program Serwisowy\obj\Release\Program_Serwisowy.system.resources
+C:\Users\Marcin\source\repos\Program Serwisowy\Program Serwisowy\obj\Release\Program Serwisowy.csproj.GenerateResource.cache
+C:\Users\Marcin\source\repos\Program Serwisowy\Program Serwisowy\obj\Release\Program Serwisowy.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\Program Serwisowy\Program Serwisowy\obj\Release\Program Serwisowy.exe
+C:\Users\Marcin\source\repos\Program Serwisowy\Program Serwisowy\obj\Release\Program Serwisowy.pdb
+C:\Users\Marcin\source\repos\Program Serwisowy\Program Serwisowy\obj\Release\Program Serwisowy.csprojAssemblyReference.cache

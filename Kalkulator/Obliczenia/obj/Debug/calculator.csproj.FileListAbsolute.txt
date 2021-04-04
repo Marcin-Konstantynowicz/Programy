@@ -1,0 +1,12 @@
+D:\Programming\Visual Studio 2013\Projects\Lab10\calculator\calculator\obj\Debug\calculator.exe
+D:\Programming\Visual Studio 2013\Projects\Lab10\calculator\calculator\obj\Debug\calculator.pdb
+D:\Programming\Visual Studio 2013\Projects\Lab10\calculator\calculator\bin\Debug\calculator.exe
+D:\Programming\Visual Studio 2013\Projects\Lab10\calculator\calculator\bin\Debug\calculator.pdb
+D:\Programming\Visual Studio 2013\Projects\Lab10\calculator\calculator\bin\Debug\control1.dll
+D:\Programming\Visual Studio 2013\Projects\Lab10\calculator\calculator\bin\Debug\control1.pdb
+D:\Programming\Visual Studio 2013\Projects\Lab10\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2013\Projects\Lab10\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\Programming\Visual Studio 2013\Projects\Lab10\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\Programming\Visual Studio 2013\Projects\Lab10\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+D:\Programming\Visual Studio 2013\Projects\Lab10\calculator\calculator\bin\Debug\calculator.exe.CodeAnalysisLog.xml
+D:\Programming\Visual Studio 2013\Projects\Lab10\calculator\calculator\bin\Debug\calculator.exe.lastcodeanalysissucceeded

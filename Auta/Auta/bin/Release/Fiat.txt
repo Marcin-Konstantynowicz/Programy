@@ -1,0 +1,48 @@
+Model:
+Bravo
+Kolor:
+Szary
+Rok produkcji:
+1996
+Rodzaj paliwa:
+Diesel
+Czas dodania do bazy:
+09.01.2021
+
+
+Model:
+Spider
+Kolor:
+Szary
+Rok produkcji:
+1999
+Rodzaj paliwa:
+Benzyna
+Czas dodania do bazy:
+09.01.2021
+
+
+Model:
+Sedici
+Kolor:
+Niebieski
+Rok produkcji:
+1997
+Rodzaj paliwa:
+Diesel
+Czas dodania do bazy:
+
+
+
+Model:
+Punto 
+Kolor:
+
+Rok produkcji:
+
+Rodzaj paliwa:
+
+Czas dodania do bazy:
+
+
+

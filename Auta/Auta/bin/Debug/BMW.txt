@@ -1,0 +1,24 @@
+Model:
+E60
+Kolor:
+Czarny
+Rok produkcji:
+2001
+Rodzaj paliwa:
+Diesel
+Czas dodania do bazy:
+09.01.2021
+
+
+Model:
+E65
+Kolor:
+Biały
+Rok produkcji:
+2014
+Rodzaj paliwa:
+Benzyna
+Czas dodania do bazy:
+06.01.2021
+
+

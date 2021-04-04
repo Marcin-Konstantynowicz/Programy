@@ -1,0 +1,11 @@
+C:\Users\Marcin\source\repos\Obliczenia\Obliczenia\obj\Debug\Obliczenia.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\Obliczenia\Obliczenia\obj\Debug\calculator.Form1.resources
+C:\Users\Marcin\source\repos\Obliczenia\Obliczenia\obj\Debug\Obliczenia.Properties.Resources.resources
+C:\Users\Marcin\source\repos\Obliczenia\Obliczenia\obj\Debug\Obliczenia.csproj.GenerateResource.cache
+C:\Users\Marcin\source\repos\Obliczenia\Obliczenia\obj\Debug\Obliczenia.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\Obliczenia\Obliczenia\bin\Debug\Obliczenia.exe.config
+C:\Users\Marcin\source\repos\Obliczenia\Obliczenia\bin\Debug\Obliczenia.exe
+C:\Users\Marcin\source\repos\Obliczenia\Obliczenia\bin\Debug\Obliczenia.pdb
+C:\Users\Marcin\source\repos\Obliczenia\Obliczenia\obj\Debug\Obliczenia.info.resources
+C:\Users\Marcin\source\repos\Obliczenia\Obliczenia\obj\Debug\Obliczenia.exe
+C:\Users\Marcin\source\repos\Obliczenia\Obliczenia\obj\Debug\Obliczenia.pdb

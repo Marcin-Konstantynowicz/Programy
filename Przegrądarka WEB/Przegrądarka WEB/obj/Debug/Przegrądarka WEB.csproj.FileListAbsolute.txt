@@ -1,0 +1,15 @@
+C:\Users\Marcin\source\repos\Przegrądarka WEB\Przegrądarka WEB\bin\Debug\Przegrądarka WEB.exe.config
+C:\Users\Marcin\source\repos\Przegrądarka WEB\Przegrądarka WEB\bin\Debug\Przegrądarka WEB.exe
+C:\Users\Marcin\source\repos\Przegrądarka WEB\Przegrądarka WEB\bin\Debug\Przegrądarka WEB.pdb
+C:\Users\Marcin\source\repos\Przegrądarka WEB\Przegrądarka WEB\obj\Debug\Przegrądarka WEB.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\Przegrądarka WEB\Przegrądarka WEB\obj\Debug\Przegrądarka_WEB.Form1.resources
+C:\Users\Marcin\source\repos\Przegrądarka WEB\Przegrądarka WEB\obj\Debug\Przegrądarka_WEB.Properties.Resources.resources
+C:\Users\Marcin\source\repos\Przegrądarka WEB\Przegrądarka WEB\obj\Debug\Przegrądarka WEB.csproj.GenerateResource.cache
+C:\Users\Marcin\source\repos\Przegrądarka WEB\Przegrądarka WEB\obj\Debug\Przegrądarka WEB.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\Przegrądarka WEB\Przegrądarka WEB\obj\Debug\Przegrądarka WEB.exe
+C:\Users\Marcin\source\repos\Przegrądarka WEB\Przegrądarka WEB\obj\Debug\Przegrądarka WEB.pdb
+C:\Users\Marcin\source\repos\Przegrądarka WEB\Przegrądarka WEB\bin\Debug\pl-PL\Przegrądarka WEB.resources.dll
+C:\Users\Marcin\source\repos\Przegrądarka WEB\Przegrądarka WEB\obj\Debug\Przegrądarka_WEB.Form1.pl-PL.resources
+C:\Users\Marcin\source\repos\Przegrądarka WEB\Przegrądarka WEB\obj\Debug\pl-PL\Przegrądarka WEB.resources.dll
+C:\Users\Marcin\source\repos\Przegrądarka WEB\Przegrądarka WEB\obj\Debug\Przegrądarka_WEB.Form2.resources
+C:\Users\Marcin\source\repos\Przegrądarka WEB\Przegrądarka WEB\obj\Debug\Przegrądarka_WEB.Informacje.resources

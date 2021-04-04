@@ -1,0 +1,11 @@
+C:\Users\Marcin\source\repos\Obliczenia\Obliczenia\obj\Release\calculator.Form1.resources
+C:\Users\Marcin\source\repos\Obliczenia\Obliczenia\obj\Release\Obliczenia.Properties.Resources.resources
+C:\Users\Marcin\source\repos\Obliczenia\Obliczenia\obj\Release\Obliczenia.csproj.GenerateResource.cache
+C:\Users\Marcin\source\repos\Obliczenia\Obliczenia\obj\Release\Obliczenia.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\Obliczenia\Obliczenia\obj\Release\Obliczenia.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\Obliczenia\Obliczenia\bin\Release\Obliczenia.exe.config
+C:\Users\Marcin\source\repos\Obliczenia\Obliczenia\bin\Release\Obliczenia.exe
+C:\Users\Marcin\source\repos\Obliczenia\Obliczenia\bin\Release\Obliczenia.pdb
+C:\Users\Marcin\source\repos\Obliczenia\Obliczenia\obj\Release\Obliczenia.exe
+C:\Users\Marcin\source\repos\Obliczenia\Obliczenia\obj\Release\Obliczenia.pdb
+C:\Users\Marcin\source\repos\Obliczenia\Obliczenia\obj\Release\Obliczenia.info.resources
