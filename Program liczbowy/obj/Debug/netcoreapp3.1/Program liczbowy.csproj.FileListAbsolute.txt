@@ -1,0 +1,26 @@
+D:\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Program liczbowy.exe
+D:\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Program liczbowy.deps.json
+D:\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Program liczbowy.runtimeconfig.json
+D:\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Program liczbowy.runtimeconfig.dev.json
+D:\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Program liczbowy.dll
+D:\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Program liczbowy.pdb
+D:\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Program liczbowy.csprojAssemblyReference.cache
+D:\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Program liczbowy.AssemblyInfoInputs.cache
+D:\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Program liczbowy.AssemblyInfo.cs
+D:\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Program liczbowy.csproj.CoreCompileInputs.cache
+D:\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Program liczbowy.dll
+D:\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Program liczbowy.pdb
+D:\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Program liczbowy.genruntimeconfig.cache
+C:\Users\Marcin\source\repos\Program liczbowy\bin\Debug\netcoreapp3.1\Program liczbowy.exe
+C:\Users\Marcin\source\repos\Program liczbowy\bin\Debug\netcoreapp3.1\Program liczbowy.deps.json
+C:\Users\Marcin\source\repos\Program liczbowy\bin\Debug\netcoreapp3.1\Program liczbowy.runtimeconfig.json
+C:\Users\Marcin\source\repos\Program liczbowy\bin\Debug\netcoreapp3.1\Program liczbowy.runtimeconfig.dev.json
+C:\Users\Marcin\source\repos\Program liczbowy\bin\Debug\netcoreapp3.1\Program liczbowy.dll
+C:\Users\Marcin\source\repos\Program liczbowy\bin\Debug\netcoreapp3.1\Program liczbowy.pdb
+C:\Users\Marcin\source\repos\Program liczbowy\obj\Debug\netcoreapp3.1\Program liczbowy.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\Program liczbowy\obj\Debug\netcoreapp3.1\Program liczbowy.AssemblyInfoInputs.cache
+C:\Users\Marcin\source\repos\Program liczbowy\obj\Debug\netcoreapp3.1\Program liczbowy.AssemblyInfo.cs
+C:\Users\Marcin\source\repos\Program liczbowy\obj\Debug\netcoreapp3.1\Program liczbowy.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\Program liczbowy\obj\Debug\netcoreapp3.1\Program liczbowy.dll
+C:\Users\Marcin\source\repos\Program liczbowy\obj\Debug\netcoreapp3.1\Program liczbowy.pdb
+C:\Users\Marcin\source\repos\Program liczbowy\obj\Debug\netcoreapp3.1\Program liczbowy.genruntimeconfig.cache

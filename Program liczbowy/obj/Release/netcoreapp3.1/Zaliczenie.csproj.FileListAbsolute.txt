@@ -1,0 +1,12 @@
+D:\Zaliczenie\Zaliczenie\bin\Release\netcoreapp3.1\Zaliczenie.exe
+D:\Zaliczenie\Zaliczenie\bin\Release\netcoreapp3.1\Zaliczenie.deps.json
+D:\Zaliczenie\Zaliczenie\bin\Release\netcoreapp3.1\Zaliczenie.runtimeconfig.json
+D:\Zaliczenie\Zaliczenie\bin\Release\netcoreapp3.1\Zaliczenie.runtimeconfig.dev.json
+D:\Zaliczenie\Zaliczenie\bin\Release\netcoreapp3.1\Zaliczenie.dll
+D:\Zaliczenie\Zaliczenie\bin\Release\netcoreapp3.1\Zaliczenie.pdb
+D:\Zaliczenie\Zaliczenie\obj\Release\netcoreapp3.1\Zaliczenie.AssemblyInfoInputs.cache
+D:\Zaliczenie\Zaliczenie\obj\Release\netcoreapp3.1\Zaliczenie.AssemblyInfo.cs
+D:\Zaliczenie\Zaliczenie\obj\Release\netcoreapp3.1\Zaliczenie.csproj.CoreCompileInputs.cache
+D:\Zaliczenie\Zaliczenie\obj\Release\netcoreapp3.1\Zaliczenie.dll
+D:\Zaliczenie\Zaliczenie\obj\Release\netcoreapp3.1\Zaliczenie.pdb
+D:\Zaliczenie\Zaliczenie\obj\Release\netcoreapp3.1\Zaliczenie.genruntimeconfig.cache

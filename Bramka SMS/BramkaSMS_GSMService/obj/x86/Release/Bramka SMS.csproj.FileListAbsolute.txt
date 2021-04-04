@@ -1,0 +1,44 @@
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.Form1.resources
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.Properties.Resources.resources
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.csproj.GenerateResource.cache
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\Bramka SMS.exe.config
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\Bramka SMS.exe.manifest
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\Bramka SMS.application
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\Bramka SMS.exe
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\Bramka SMS.pdb
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.TrustInfo.xml
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.exe.manifest
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.application
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.exe
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.pdb
+E:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.csprojAssemblyReference.cache
+E:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.Form1.resources
+E:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.Properties.Resources.resources
+E:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.csproj.GenerateResource.cache
+E:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.csproj.CoreCompileInputs.cache
+E:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.exe
+E:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.pdb
+E:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\Bramka SMS.exe.config
+E:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\Bramka SMS.exe.manifest
+E:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\Bramka SMS.application
+E:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\Bramka SMS.exe
+E:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\Bramka SMS.pdb
+E:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.TrustInfo.xml
+E:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.exe.manifest
+E:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.application
+H:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\Bramka SMS.exe.config
+H:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\Bramka SMS.exe.manifest
+H:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\Bramka SMS.application
+H:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\Bramka SMS.exe
+H:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\Bramka SMS.pdb
+H:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.csprojAssemblyReference.cache
+H:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.Form1.resources
+H:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.Properties.Resources.resources
+H:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.csproj.GenerateResource.cache
+H:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.csproj.CoreCompileInputs.cache
+H:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.TrustInfo.xml
+H:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.exe.manifest
+H:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.application
+H:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.exe
+H:\Program C#\Bramka SMS ver1.2\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\Bramka SMS.pdb

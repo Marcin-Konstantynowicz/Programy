@@ -1,0 +1,13 @@
+C:\Users\Marcin\source\repos\Program liczbowy\bin\Release\netcoreapp3.0\Program liczbowy.exe
+C:\Users\Marcin\source\repos\Program liczbowy\bin\Release\netcoreapp3.0\Program liczbowy.deps.json
+C:\Users\Marcin\source\repos\Program liczbowy\bin\Release\netcoreapp3.0\Program liczbowy.runtimeconfig.json
+C:\Users\Marcin\source\repos\Program liczbowy\bin\Release\netcoreapp3.0\Program liczbowy.runtimeconfig.dev.json
+C:\Users\Marcin\source\repos\Program liczbowy\bin\Release\netcoreapp3.0\Program liczbowy.dll
+C:\Users\Marcin\source\repos\Program liczbowy\bin\Release\netcoreapp3.0\Program liczbowy.pdb
+C:\Users\Marcin\source\repos\Program liczbowy\obj\Release\netcoreapp3.0\Program liczbowy.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\Program liczbowy\obj\Release\netcoreapp3.0\Program liczbowy.AssemblyInfoInputs.cache
+C:\Users\Marcin\source\repos\Program liczbowy\obj\Release\netcoreapp3.0\Program liczbowy.AssemblyInfo.cs
+C:\Users\Marcin\source\repos\Program liczbowy\obj\Release\netcoreapp3.0\Program liczbowy.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\Program liczbowy\obj\Release\netcoreapp3.0\Program liczbowy.dll
+C:\Users\Marcin\source\repos\Program liczbowy\obj\Release\netcoreapp3.0\Program liczbowy.pdb
+C:\Users\Marcin\source\repos\Program liczbowy\obj\Release\netcoreapp3.0\Program liczbowy.genruntimeconfig.cache

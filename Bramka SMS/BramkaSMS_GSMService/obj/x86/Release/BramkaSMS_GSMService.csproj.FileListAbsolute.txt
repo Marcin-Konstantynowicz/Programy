@@ -1,0 +1,50 @@
+D:\Moje dokumenty\Visual Studio 2010\Projects\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\GSMService.pl - przykład implementacjiw C#.exe.config
+D:\Moje dokumenty\Visual Studio 2010\Projects\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\GSMService.pl - przykład implementacjiw C#.exe
+D:\Moje dokumenty\Visual Studio 2010\Projects\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\GSMService.pl - przykład implementacjiw C#.pdb
+D:\Moje dokumenty\Visual Studio 2010\Projects\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Moje dokumenty\Visual Studio 2010\Projects\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.Form1.resources
+D:\Moje dokumenty\Visual Studio 2010\Projects\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.Properties.Resources.resources
+D:\Moje dokumenty\Visual Studio 2010\Projects\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Moje dokumenty\Visual Studio 2010\Projects\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Moje dokumenty\Visual Studio 2010\Projects\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\GSMService.pl - przykład implementacjiw C#.exe
+D:\Moje dokumenty\Visual Studio 2010\Projects\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\GSMService.pl - przykład implementacjiw C#.pdb
+C:\Users\Marcin\Desktop\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\GSMService.pl - przykład implementacjiw C#.exe.config
+C:\Users\Marcin\Desktop\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\GSMService.pl - przykład implementacjiw C#.exe
+C:\Users\Marcin\Desktop\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\GSMService.pl - przykład implementacjiw C#.pdb
+C:\Users\Marcin\Desktop\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.csprojAssemblyReference.cache
+C:\Users\Marcin\Desktop\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.Form1.resources
+C:\Users\Marcin\Desktop\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.Properties.Resources.resources
+C:\Users\Marcin\Desktop\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.csproj.GenerateResource.cache
+C:\Users\Marcin\Desktop\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Desktop\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\GSMService.pl - przykład implementacjiw C#.exe
+C:\Users\Marcin\Desktop\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\GSMService.pl - przykład implementacjiw C#.pdb
+D:\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\GSMService.pl - przykład implementacjiw C#.exe.config
+D:\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\GSMService.pl - przykład implementacjiw C#.exe
+D:\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\GSMService.pl - przykład implementacjiw C#.pdb
+D:\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.csprojAssemblyReference.cache
+D:\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.Form1.resources
+D:\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.Properties.Resources.resources
+D:\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.csproj.GenerateResource.cache
+D:\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.csproj.CoreCompileInputs.cache
+D:\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\GSMService.pl - przykład implementacjiw C#.exe
+D:\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\GSMService.pl - przykład implementacjiw C#.pdb
+G:\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\GSMService.pl - przykład implementacjiw C#.exe.config
+G:\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\GSMService.pl - przykład implementacjiw C#.exe
+G:\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\GSMService.pl - przykład implementacjiw C#.pdb
+G:\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.csprojAssemblyReference.cache
+G:\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.Form1.resources
+G:\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.Properties.Resources.resources
+G:\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.csproj.GenerateResource.cache
+G:\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.csproj.CoreCompileInputs.cache
+G:\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\GSMService.pl - przykład implementacjiw C#.exe
+G:\Bramka SMS\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\GSMService.pl - przykład implementacjiw C#.pdb
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\GSMService.pl - przykład implementacjiw C#.exe.config
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\GSMService.pl - przykład implementacjiw C#.exe
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\bin\Release\GSMService.pl - przykład implementacjiw C#.pdb
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.csprojAssemblyReference.cache
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.Form1.resources
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.Properties.Resources.resources
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.csproj.GenerateResource.cache
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\BramkaSMS_GSMService.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\GSMService.pl - przykład implementacjiw C#.exe
+C:\Users\Marcin\Desktop\Bramka SMS ver1.0\Wersja okienkowa\BramkaSMS_GSMService\BramkaSMS_GSMService\obj\x86\Release\GSMService.pl - przykład implementacjiw C#.pdb
